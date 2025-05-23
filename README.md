@@ -116,7 +116,7 @@ ampy --port /dev/ttyUSB0 put main.py
 
 ## 📍 Lokasi Implementasi
 
-Puskesmas Tana Toraja  
+Puskesmas Makale Utara  
 Jl. Poros Rantepao - Makale, Tambunan  
 Kec. Makale Utara, Kabupaten Tana Toraja  
 Sulawesi Selatan
